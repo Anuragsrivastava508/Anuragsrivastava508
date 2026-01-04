@@ -74,14 +74,15 @@
 
 
 
-## 📈 GitHub Stats:
+## 📈 GitHub Streak Stats
+
 <div align="center">
-   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuragsrivastava508&theme=dark&hide_border=false" width="400" height="200"/>  
-  
+  <img 
+    src="https://streak-stats.demolab.com?user=Anuragsrivastava508&theme=dark&hide_border=false" 
+    alt="GitHub Streak Stats"
+  />
 </div>
 
----
 
 <!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
 
