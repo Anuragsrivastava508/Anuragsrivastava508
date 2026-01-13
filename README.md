@@ -73,15 +73,18 @@
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anuragsrivastava508&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anuragsrivastava508&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragsrivastava508&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📈 GitHub Streak Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anuragsrivastava508&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Anuragsrivastava508&theme=dark&hide_border=false" 
-    alt="GitHub Streak Stats"
-  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Anuragsrivastava508&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
