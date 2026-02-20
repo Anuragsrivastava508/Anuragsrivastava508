@@ -1,7 +1,7 @@
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnuragsrivastava508bc271.png?alt=media" />
-</p> -->
+</p> 
 
 <h1 align="center">✨ Anurag Srivastava ✨</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Open Source Contributor</h3>
