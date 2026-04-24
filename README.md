@@ -1,30 +1,17 @@
 
-<p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnuragsrivastava508bc271.png?alt=media" />
-</p>  
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2744,100:1a4a6e&height=200&section=header&text=Anurag%20Srivastava&fontSize=52&fontColor=e2f0ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=58&descColor=7eb8d4&animation=fadeIn" />
+</div>
 
-<h1 align="center">✨ Anurag Srivastava ✨</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=26&pause=900&color=38B2AC&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Tech+Lover+%26+Problem+Solver;Building+Cool+Stuff+Everyday" />
-</p>
+  <p align="center">
 
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" />
-  Profile Visitors
-</h3>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508&labelColor=%23000000&countColor=%23263759"/>
 </p>
 
 
----
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🔥 About Me
-
-<img align="right" width="420" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 👋 Hi, I’m **Anurag Srivastava**,  
 a passionate **Full Stack Web Developer** who loves creating  
@@ -39,24 +26,28 @@ a passionate **Full Stack Web Developer** who loves creating
 🌱 Learning **MERN, DSA with Java & Operating Systems**  
 🌐 **Open Source Contributor** – Social Summer of Code 2025  
 📍 **Varanasi, Uttar Pradesh, India**
+<br clear="right"/>
 
----
-
-## 🌐 Connect With Me
-
+🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/anuragshrivastava06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:anuragsrivastava8874@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/Anuragsrivastav508"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="https://facebook.com/Anurag%20srivastava"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
-  <a href="https://anurag-srivastava.vercel.app/">
+<a href="https://linkedin.com/in/anuragshrivastava06">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://anurag-srivastava.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:anuragsrivastava8874@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/Anuragsrivastav508">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://facebook.com/Anurag%20srivastava">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </p>
 
----
-
-## 💻 Tech Stack ⚡
+💻 Tech Stack
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -75,53 +66,108 @@ a passionate **Full Stack Web Developer** who loves creating
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🧰 Tools
-Git • GitHub • GitLab • WordPress • Figma • Canva • Adobe Photoshop  
+
+### 🛠️ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+
+
+🚀 What I Love Building
+<table>
+  <tr>
+    <td align="center" width="180">
+      <b>🔥 Full Stack Apps</b><br/>
+      <sub>End-to-end MERN projects with auth, APIs & databases</sub>
+    </td>
+    <td align="center" width="180">
+      <b>🎨 Modern UIs</b><br/>
+      <sub>Responsive, pixel-perfect interfaces that feel great</sub>
+    </td>
+    <td align="center" width="180">
+      <b>🔐 Auth Systems</b><br/>
+      <sub>Secure login flows, JWT, role-based access</sub>
+    </td>
+    <td align="center" width="180">
+      <b>📊 Dashboards</b><br/>
+      <sub>Admin panels, analytics, and data-driven UIs</sub>
+    </td>
+  </tr>
+</table>
+
+
+## 🏆 Achievements & Certifications
+
+### 🎯 Hackathon Journey
+
+| Event | Organizer | Badge |
+|-------|-----------|-------|
+| **IIT Guwahati Hackathon** | IIT Guwahati | 🏅 Certified Participant |
+| **Microsoft Hackathon** | Microsoft | 🏅 Certified Participant |
+| **Social Summer of Code 2025** | SSoC | 🌐 Open Source Contributor |
+| **National Level Hackathons** | Various Organizations | 🔁 Continuously Competing |
+
+> *"I don't just code at my desk — I compete, collaborate, and build under pressure."*
 
 ---
 
-## 🚀 What I Love Building
+### 🎓 Certificates & Recognition
 
-🔥 Full Stack MERN Applications  
-🎨 Responsive & Modern UI  
-🔐 Auth-based Systems  
-📊 Dashboards & Admin Panels  
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/IIT%20Guwahati-Hackathon%20Certificate-006DAE?style=for-the-badge&logoColor=white"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Microsoft-Hackathon%20Certificate-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/SSoC%202025-Open%20Source%20Contributor-orange?style=for-the-badge&logoColor=white"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Many%20More-Hackathons%20%26%20Events-blueviolet?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-## 🏆 Achievements 🏅
-
-✨ Open Source Contributor – Social Summer of Code 2025  
-🔥 Active & Consistent GitHub Contributor  
-💡 Self-Taught & Project-Driven Developer  
-
----
-
-## 🐍 Contribution Snake
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anuragsrivastava508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragsrivastava508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragsrivastava508&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## ✍️ Dev Quote 💭
-
+🐍 Contribution Activity
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
-## 📩 Contact Me
-
-📧 **Email:** anuragsrivastava8874@gmail.com  
-
+✍️ A Thought
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anuragsrivastava508&icon=5&color=12" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
+📬 Reach Me
 <p align="center">
+  📧 anuragsrivastava8874@gmail.com
+  <br/><br/>
+  I'm always open to interesting projects, collaborations, and opportunities.<br/>
+  If you have an idea or just want to talk tech — hit me up.
+</p>
+
+ <p align="center">
 ⭐ If you like my profile, don’t forget to star my repositories ⭐
 </p>
-
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a6e,100:0f2744&height=120&section=footer"/>
+ 
+</div>
 
