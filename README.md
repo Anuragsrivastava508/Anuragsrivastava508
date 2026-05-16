@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2744,100:1a4a6e&height=200&section=header&text=Anurag%20Srivastava&fontSize=52&fontColor=e2f0ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=58&descColor=7eb8d4&animation=fadeIn" />
 </div>
 
-<h1>Hi Anurag </h1>
   <p align="center">
 
   <img src="https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508&labelColor=%23000000&countColor=%23263759"/>
