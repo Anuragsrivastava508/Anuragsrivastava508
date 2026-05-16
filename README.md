@@ -45,7 +45,6 @@ a passionate **Full Stack Web Developer** who loves creating
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </p>
- <iframe src="https://github.com/sponsors/Anuragsrivastava508/button" title="Sponsor Anuragsrivastava508" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 💻 Tech Stack
 
 ### 🎨 Frontend
