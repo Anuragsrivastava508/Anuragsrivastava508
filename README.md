@@ -1,4 +1,6 @@
 
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2744,100:1a4a6e&height=200&section=header&text=Anurag%20Srivastava&fontSize=52&fontColor=e2f0ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=58&descColor=7eb8d4&animation=fadeIn" />
 </div>
@@ -6,6 +8,7 @@
   <p align="center">
 
   <img src="https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508&labelColor=%23000000&countColor=%23263759"/>
+    <img src="https://img.shields.io/github/followers/Anuragsrivastava508?label=Followers&style=for-the-badge&color=0d2137&labelColor=0a0f1e&logoColor=64b5f6"/>
 </p>
 
 
@@ -48,34 +51,86 @@ a passionate **Full Stack Web Developer** who loves creating
 💻 Tech Stack
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
-![JAVA](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
+### ☕ Java Full Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+### ⚙️ Backend (Node.js)
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 ### 🛠️ Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+</p>
+---
+ 
+## 🏗️ Java Full Stack Architecture
+ 
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                    🌐 CLIENT LAYER (Frontend)                    │
+│          React.js / Next.js / HTML · CSS · JavaScript            │
+└──────────────────────────────┬───────────────────────────────────┘
+                               │  REST API / JSON
+┌──────────────────────────────▼───────────────────────────────────┐
+│                  ⚙️ APPLICATION LAYER (Spring Boot)              │
+│   Controllers → Services → Repositories (Spring Data JPA)        │
+│   Spring Security · JWT Auth · Swagger Docs · Maven              │
+└──────────────────────────────┬───────────────────────────────────┘
+                               │  Hibernate ORM / JDBC
+┌──────────────────────────────▼───────────────────────────────────┐
+│                    🗄️ DATA LAYER (Databases)                     │
+│           MySQL / PostgreSQL   |   MongoDB   |   Redis            │
+└──────────────────────────────────────────────────────────────────┘
+```
+ 
+---
 🚀 What I Love Building
 <table>
   <tr>
@@ -134,15 +189,24 @@ a passionate **Full Stack Web Developer** who loves creating
     </td>
   </tr>
 </table>
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anuragsrivastava508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragsrivastava508&theme=tokyonight&hide_border=true&background=0d1117&ring=64b5f6&fire=ff9800&currStreakLabel=64b5f6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragsrivastava508&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsrivastava508&bg_color=0d1117&color=64b5f6&line=64b5f6&point=ffffff&area=true&hide_border=true" />
+</div>
+---
+ 
+## 🏆 GitHub Trophies
+ 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuragsrivastava508&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+---
 
-📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anuragsrivastava508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragsrivastava508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragsrivastava508&theme=tokyonight&hide_border=true"/>
-</p>
 
 🐍 Contribution Activity
 <p align="center">
