@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2744,100:1a4a6e&height=200&section=header&text=Anurag%20Srivastava&fontSize=52&fontColor=e2f0ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&descAlignY=58&descColor=7eb8d4&animation=fadeIn" />
 </div>
@@ -27,23 +28,12 @@ a passionate **Full Stack Web Developer** who loves creating
 📍 **Varanasi, Uttar Pradesh, India**
 <br clear="right"/>
 
-🌐 Let's Connect
-<p align="center">
-<a href="https://linkedin.com/in/anuragshrivastava06">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://anurag-srivastava.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:anuragsrivastava8874@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/Anuragsrivastav508">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://facebook.com/Anurag%20srivastava">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+### 🌐 Let's Connect & Collaborate
+<p align="left">
+  <a href="https://linkedin.com/in/anuragshrivastava06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://anurag-srivastava.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:anuragsrivastava8874@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/Anuragsrivastav508" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 💻 Tech Stack
 
