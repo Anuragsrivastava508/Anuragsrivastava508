@@ -193,14 +193,12 @@ a passionate **Full Stack Web Developer** who loves creating
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragsrivastava508&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anuragsrivastava508&bg_color=0d1117&color=64b5f6&line=64b5f6&point=ffffff&area=true&hide_border=true" />
 </div>
----
- 
-## 🏆 GitHub Trophies
- 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anuragsrivastava508&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
----
+
+ ## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuragsrivastava508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 
 🐍 Contribution Activity
