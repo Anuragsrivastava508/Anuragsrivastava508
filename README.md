@@ -12,7 +12,6 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-
 👋 Hi, I’m **Anurag Srivastava**,  
 a passionate **Full Stack Web Developer** who loves creating  
 **beautiful, fast, and scalable web applications**.
