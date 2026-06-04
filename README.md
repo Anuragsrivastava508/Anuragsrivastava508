@@ -184,7 +184,6 @@ a passionate **Full Stack Web Developer** who loves creating
 <a href="https://github.com/sponsors/Anuragsrivastava508">
 <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
 </a>
-
 </p>
  
 ## 📊 GitHub Stats
@@ -228,8 +227,6 @@ a passionate **Full Stack Web Developer** who loves creating
 </p>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a6e,100:0f2744&height=120&section=footer"/>
-
-
 
 </div>
 
