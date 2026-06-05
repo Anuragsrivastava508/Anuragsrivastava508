@@ -8,8 +8,6 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508&labelColor=%23000000&countColor=%23263759"/>
     <img src="https://img.shields.io/github/followers/Anuragsrivastava508?label=Followers&style=for-the-badge&color=0d2137&labelColor=0a0f1e&logoColor=64b5f6"/>
 </p>
-
-
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 👋 Hi, I’m **Anurag Srivastava**,  
