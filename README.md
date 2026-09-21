@@ -108,7 +108,7 @@ a passionate **Full Stack Web Developer** who loves creating
 └──────────────────────────────┬───────────────────────────────────┘
                                │  Hibernate ORM / JDBC
 ┌──────────────────────────────▼───────────────────────────────────┐
-│                    🗄️ DATA LAYER (Databases)                     │
+│                    🗄️ DATA LAYER (Databases)                     |
 │           MySQL / PostgreSQL   |   MongoDB   |   Redis            │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -141,12 +141,15 @@ a passionate **Full Stack Web Developer** who loves creating
 
 ### 🎯 Hackathon Journey
 
-| Event | Organizer | Badge |
-|-------|-----------|-------|
-| **IIT Guwahati Hackathon** | IIT Guwahati | 🏅 Certified Participant |
-| **Microsoft Hackathon** | Microsoft | 🏅 Certified Participant |
-| **Social Summer of Code 2025** | SSoC | 🌐 Open Source Contributor |
-| **National Level Hackathons** | Various Organizations | 🔁 Continuously Competing |
+| Event                                       | Organizer             | Badge                                  |
+| ------------------------------------------- | --------------------- | -------------------------------------- |
+| **IIT Guwahati Hackathon**                  | IIT Guwahati          | 🏅 Certified Participant               |
+| **Microsoft Hackathon**                     | Microsoft             | 🏅 Certified Participant               |
+| **Flipkart GRID 2.0 Hackathon**             | Flipkart              | 🏆 Hackathon Participant – Final Round |
+| **Social Summer of Code 2025**              | SSoC                  | 🌐 Open Source Contributor             |
+| **HackerRank Orchestrate – September 2026** | HackerRank            | 🎯 Rank #2165 / 3,062 Participants     |
+| **National Level Hackathons**               | Various Organizations | 🔁 Continuously Competing              |
+
 
 > *"I don't just code at my desk — I compete, collaborate, and build under pressure."*
 
